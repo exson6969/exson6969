@@ -4,4 +4,6 @@
 🔎Exploring <b>FLutter</b>
 <br>
 <h2>Statistics</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exson6969&layout=compact"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exson6969&layout=compact"/>
+</p>
