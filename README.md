@@ -2,7 +2,7 @@
 <br>
 ❤️Interested in <b>Data analysis</b><br><br>
 🔎Exploring <b>FLutter</b><br><br>
-Tech stack = ["FLutter","Python","Javascript","HTML","CSS"]
+📚 stack = ["FLutter","Python","Javascript","HTML","CSS"]
 <br>
 <h2>Statistics</h2>
 <p align="center">
