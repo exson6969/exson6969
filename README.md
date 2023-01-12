@@ -4,7 +4,4 @@
 🔎Exploring <b>FLutter</b><br><br>
 📚 stack = ["FLutter","Python","Javascript","HTML","CSS"]
 <br>
-<h2>Statistics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exson6969&layout=compact"/>
-</p>
+
