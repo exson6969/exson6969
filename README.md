@@ -1,7 +1,13 @@
 <h1 align="center">Hey 👋, I'm Amysoj J A Exson Joseph</h1>
-<br>
 
-<p  align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=exson6969&" alt="exson6969" /></p>
+Dynamic Full Stack Developer with extensive experience in Python (Django), JavaScript (React, Node), and modern web development frameworks. Adept at leading cross-functional teams to deliver innovative web solutions. I am seeking a challenging role to leverage my technical skills and collaborative mindset in driving project success.
+
+## Core Skills
+
+- **Languages & Frameworks:** Python, JavaScript, TypeScript, Flutter, Node.js, React.js, Next.js, Redux, Django
+- **APIs & Databases:** GraphQL, PostgreSQL, MongoDB
+- **Tools & Platforms:** Selenium, Postman, Git, Docker, AWS, Excel, Figma
+- **Emerging Technologies:** GenAI, Gemini
 
 ## Projects
 <a target="blank" href="https://zippy.codebit.in/" >
