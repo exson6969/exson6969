@@ -19,3 +19,6 @@ Dynamic Full Stack Developer with extensive experience in Python (Django), JavaS
 <a target="blank" href="https://www.ikeashipanywhereinindia.com" >
   <img   alt="ikeashipanywhereinindia" height="100px" width="100px" src="https://www.ikeashipanywhereinindia.com/logo.svg" />
 </a>
+<a target="blank" href="https://stock-data-alpha.vercel.app/" >
+  <img   alt="stockdata" height="100px" width="100px" src="https://stock-data-alpha.vercel.app/logo.svg" />
+</a>
