@@ -12,6 +12,11 @@ Dynamic Full Stack Developer with extensive experience in Python (Django), JavaS
 - **Emerging Technologies:** GenAI, Gemini
 
 ## Projects
+
+<a target="blank" href="https://www.codebit.in/" >
+  <img   alt="stockdata" height="100px" width="100px" src="https://www.codebit.in/images/logo.png" />
+</a>
+
 <a target="blank" href="https://www.mockie.in/" >
   <img alt="mockie" height="100px" width="100px" src="https://www.mockie.in/logo.png" />
 </a>
