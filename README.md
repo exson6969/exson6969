@@ -2,8 +2,6 @@
 
 Dynamic Full Stack Developer with extensive experience in Python (Django), JavaScript (React, Node), and modern web development frameworks. Adept at leading cross-functional teams to deliver innovative web solutions. I am seeking a challenging role to leverage my technical skills and collaborative mindset in driving project success.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=exson6969)](https://git.io/streak-stats)
-
 ## Core Skills
 
 - **Languages & Frameworks:** Python, JavaScript, TypeScript, Flutter, Node.js, React.js, Next.js, Redux, Django
