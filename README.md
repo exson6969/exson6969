@@ -6,6 +6,7 @@ Dynamic Full Stack Developer with extensive experience in Python (Django), JavaS
 
 - **Languages & Frameworks:** Python, JavaScript, TypeScript, Flutter, Node.js, React.js, Next.js, Redux, Django
 - **APIs & Databases:** GraphQL, PostgreSQL, MongoDB
+- **AI/ML :** Hugging Face, Pandas, NumPy, Matplotlib, Scikit-learn, ChromaDB, Gemini, Langchain
 - **Tools & Platforms:** Selenium, Postman, Git, Docker, AWS, Excel, Figma
 - **Emerging Technologies:** GenAI, Gemini
 
