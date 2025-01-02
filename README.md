@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Amysoj J A Exson Joseph</h1>
+<h1 align="center">Hey 👋, I'm Exson Joseph</h1>
 
 Dynamic Full Stack Developer with extensive experience in Python (Django), JavaScript (React, Node), and modern web development frameworks. Adept at leading cross-functional teams to deliver innovative web solutions. I am seeking a challenging role to leverage my technical skills and collaborative mindset in driving project success.
 
