@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Exson Joseph</h1>
 
-Dynamic Full Stack Developer with extensive experience in Python (Django), JavaScript (React, Node), and modern web development frameworks. Adept at leading cross-functional teams to deliver innovative web solutions. I am seeking a challenging role to leverage my technical skills and collaborative mindset in driving project success.
+A passionate software engineer with expertise in Generative AI, Full-Stack Development, and AI/ML. I specialize in building modern, efficient, and user-friendly applications using tools like Next.js, LangChain, and Hugging Face, with strong backend experience in Node.js and Django.
+
+Whether it's creating intelligent models, developing robust web platforms, or optimizing performance, I deliver solutions tailored to your needs. Let’s collaborate and bring your ideas to life!
 
 ## Core Skills
 
