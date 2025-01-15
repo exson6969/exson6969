@@ -15,7 +15,7 @@ Whether it's creating intelligent models, developing robust web platforms, or op
 ## Projects
 
 <a target="blank" href="https://www.codebit.in/" >
-  <img   alt="stockdata" height="100px" width="100px" src="https://www.codebit.in/images/logo.png" />
+  <img   alt="codebit" height="100px" width="100px" src="https://www.codebit.in/favicon.ico" />
 </a>
 <a target="blank" href="https://ythough.codebit.in/" >
   <img   alt="stockdata" height="100px" width="100px" src="https://ythough.codebit.in/favicon.ico" />
