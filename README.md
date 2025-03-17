@@ -17,17 +17,9 @@ Whether it's creating intelligent models, developing robust web platforms, or op
 <a target="blank" href="https://ai-chat-frontend-gilt.vercel.app/" >
   <img   alt="AI Product Agent" height="100px" width="100px" src="https://ai-chat-frontend-gilt.vercel.app/favicon.ico" />
 </a>
-<a target="blank" href="https://www.codebit.in/" >
-  <img   alt="codebit" height="100px" width="100px" src="https://www.codebit.in/favicon.ico" />
-</a>
 <a target="blank" href="https://ythough.codebit.in/" >
   <img   alt="stockdata" height="100px" width="100px" src="https://ythough.codebit.in/favicon.ico" />
 </a>
-
-<a target="blank" href="https://www.mockie.in/" >
-  <img alt="mockie" height="100px" width="100px" src="https://www.mockie.in/logo.png" />
-</a>
-
 <a target="blank" href="https://www.ikeashipanywhereinindia.com" >
   <img   alt="ikeashipanywhereinindia" height="100px" width="100px" src="https://www.ikeashipanywhereinindia.com/logo.svg" />
 </a>
