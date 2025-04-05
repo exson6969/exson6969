@@ -26,3 +26,6 @@ Whether it's creating intelligent models, developing robust web platforms, or op
 <a target="blank" href="https://stock-data-alpha.vercel.app/" >
   <img   alt="stockdata" height="100px" width="100px" src="https://stock-data-alpha.vercel.app/logo.svg" />
 </a>
+<a target="blank" href="https://mockie.vercel.app/" >
+  <img   alt="mockie" height="100px" width="100px" src="https://mockie.vercel.app/logo.png" />
+</a>
