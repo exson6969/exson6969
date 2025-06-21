@@ -20,8 +20,8 @@ Whether it's creating intelligent models, developing robust web platforms, or op
 <a target="blank" href="https://ythough.codebit.in/" >
   <img   alt="stockdata" height="100px" width="100px" src="https://ythough.codebit.in/favicon.ico" />
 </a>
-<a target="blank" href="https://www.ikeashipanywhereinindia.com" >
-  <img   alt="ikeashipanywhereinindia" height="100px" width="100px" src="https://www.ikeashipanywhereinindia.com/logo.svg" />
+<a target="blank" href="https://ikeashipanywhere-a324.vercel.app/" >
+  <img   alt="ikeashipanywhereinindia" height="100px" width="100px" src="https://ikeashipanywhere-a324.vercel.app/logo.svg" />
 </a>
 <a target="blank" href="https://stock-data-alpha.vercel.app/" >
   <img   alt="stockdata" height="100px" width="100px" src="https://stock-data-alpha.vercel.app/logo.svg" />
