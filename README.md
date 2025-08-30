@@ -13,7 +13,9 @@ Whether it's creating intelligent models, developing robust web platforms, or op
 - **Emerging Technologies:** GenAI, Gemini, OpenAI, Llama
 
 ## Projects
-
+<a target="blank" href="https://www.buzzchat.in/" >
+  <img   alt="Buzzchat" height="100px" width="100px" src="https://www.buzzchat.in/favicon.ico" />
+</a>
 <a target="blank" href="https://ai-chat-frontend-gilt.vercel.app/" >
   <img   alt="AI Product Agent" height="100px" width="100px" src="https://ai-chat-frontend-gilt.vercel.app/favicon.ico" />
 </a>
