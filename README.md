@@ -10,9 +10,11 @@ Whether it's creating intelligent models, developing robust web platforms, or op
 - **APIs & Databases:** GraphQL, PostgreSQL, MongoDB
 - **AI/ML :** Hugging Face, Pandas, NumPy, Matplotlib, Scikit-learn, ChromaDB, Gemini, Langchain
 - **Tools & Platforms:** Selenium, Postman, Git, Docker, AWS, Excel, Figma
-- **Emerging Technologies:** GenAI, Gemini, OpenAI, Llama
 
 ## Projects
+<a target="blank" href="https://www.marketmetrics.in/" >
+  <img   alt="marketmetrics" height="100px" width="100px" src="https://www.marketmetrics.in/favicon.ico" />
+</a>
 <a target="blank" href="https://www.buzzchat.in/" >
   <img   alt="Buzzchat" height="100px" width="100px" src="https://www.buzzchat.in/favicon.ico" />
 </a>
