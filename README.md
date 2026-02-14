@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Exson Joseph</h1>
 
-I am a passionate AI enthusiast with a strong foundation in building scalable, user-friendly applications. With hands-on experience in LangChain, React.js, Next.js, Node.js, FastAPI, Django, and MongoDB.
-
-Whether it's creating intelligent models, developing robust web platforms, or optimizing performance, I deliver solutions tailored to your needs. Let’s collaborate and bring your ideas to life!
+AI Engineer dedicated to architecting scalable Generative AI systems and intelligent infrastructure
 
 ## Core Skills
 
